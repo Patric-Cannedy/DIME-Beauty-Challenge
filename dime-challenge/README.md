@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# DIME-Beauty-Challenge
 
 This is a demo website created as part of the DIME take home.
 
