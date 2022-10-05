@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DIME-Beauty-Challenge/static/css/main.0ae86a6e.css",
+    "main.js": "/DIME-Beauty-Challenge/static/js/main.06f1ca11.js",
+    "static/media/logo.svg": "/DIME-Beauty-Challenge/static/media/logo.2810037439e0788ca2e1.svg",
+    "index.html": "/DIME-Beauty-Challenge/index.html",
+    "main.0ae86a6e.css.map": "/DIME-Beauty-Challenge/static/css/main.0ae86a6e.css.map",
+    "main.06f1ca11.js.map": "/DIME-Beauty-Challenge/static/js/main.06f1ca11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae86a6e.css",
+    "static/js/main.06f1ca11.js"
+  ]
+}
