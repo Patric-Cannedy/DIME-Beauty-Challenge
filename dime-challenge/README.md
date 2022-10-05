@@ -1,6 +1,7 @@
 # DIME-Beauty-Challenge
 
 This is a demo website created as part of the DIME take home.
+![React App - Google Chrome 10_4_2022 9_18_49 PM](https://user-images.githubusercontent.com/71048678/194182327-873a03a1-12a1-4112-bd53-28e43c4056c9.png)
 
 ## Status
 
