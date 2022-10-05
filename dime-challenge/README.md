@@ -14,4 +14,5 @@ This app was created using React.js as a framework and styled with plain css in 
 
 ## Setup
 
-To install this project, download or clone the repo and then run `npm install` to install all the dependencies. `npm start` will run the development server where further changes can be begin. This project will run on `localhost:3000`.
+To install this project, download or clone the repo and then run `npm install` to install all the dependencies. `npm start` will run the development server where further changes can be begin. This project will run on `localhost:3000`. The demo can also be previewed at https://patric-cannedy.github.io/DIME-Beauty-Challenge/. 
+ 
